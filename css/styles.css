@@ -183,32 +183,12 @@ body::after {
 
 /* Buttons */
 .btn-custom {
-    background-color: #222;
-    border: none;
-    color: #e0e0e0;
-    padding: 0.8rem 1.8rem;
-    border-radius: 30px;
-    font-weight: 600;
-    font-size: 1rem;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.6rem;
-    transition: background-color 0.3s ease;
-    user-select: none;
-}
-
-.btn-custom:hover {
-    background-color: #0a5fff;
-    color: white;
+    
 }
 
 /* Icon placeholders for buttons */
 .btn-icon {
-    display: inline-block;
-    width: 18px;
-    height: 18px;
-    fill: currentColor;
+
 }
 
 /* Responsive */
